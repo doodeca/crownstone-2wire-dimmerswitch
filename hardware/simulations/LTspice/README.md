@@ -29,14 +29,14 @@ B1 adds white noise to V1.
 U1 is an universal opamp (level 2) model, U2 is identical to U1. 
 |Parameter|Value|
 |---|---|
-|Open loop voltage gain|100 k (100dB)|
-|Gain bandwidth|1 MHz|
+|Open loop voltage gain|178k (100dB)|
+|Gain bandwidth|1MHz|
 |Slew Rate|0.6V/us (=600kV/s)|
-|Current Limit|20 mA|
+|Current Limit|20mA|
 |rail=0|rail-to-rail opamp|
 |V offset|0.001|
-|Input Impedance|500 M|
-|Output Impedance|1 k|
+|Input Impedance|500Meg|
+|Output Impedance|1k|
 
 ## Simulation results
 
