@@ -17,6 +17,13 @@ The top plot shows the input signal (V_in).\
 The second plot shows output voltage V_out (green) and the current through the load resistor R3 (blue).\
 The last plot shows input current of the converter IC (magenta) and the current draw from from the source (blue).
 
+## Efficiency
+
+![Plot](https://github.com/doodeca/crownstone-2wire-dimmerswitch/raw/main/hardware/simulations/LTspice/LT1934-plot-power_in_out.PNG)
+
+![Plot](https://github.com/doodeca/crownstone-2wire-dimmerswitch/raw/main/hardware/simulations/LTspice/LT1934-avgpwr_in.PNG) ![Plot](https://github.com/doodeca/crownstone-2wire-dimmerswitch/raw/main/hardware/simulations/LTspice/LT1934-avgpwr_out.PNG)
+
+The efficiency is about 53.2mW/73.8mW = 72%
 
 # Zero Cross Detection
 
