@@ -15,7 +15,7 @@ A repository to document the design process of the Crownstone 2-wire dimmer/swit
 [Zero Cross Detection using an opamp](https://github.com/doodeca/crownstone-2wire-dimmerswitch/blob/main/hardware/simulations/LTspice/README.md#Zero-Cross-Detection)
 
 ## Tests
-[230V AC - 15V DC buck converter using LinkSwitch](https://github.com/doodeca/crownstone-2wire-dimmerswitch/blob/main/hardware/tests/README.md#lnk302-buck-converter)\
+[15V DC buck converter using LinkSwitch](https://github.com/doodeca/crownstone-2wire-dimmerswitch/blob/main/hardware/tests/README.md#lnk302-buck-converter)\
 [3.3V buck converter using LT1934](https://github.com/doodeca/crownstone-2wire-dimmerswitch/blob/main/hardware/tests/README.md#lt1934-1-buck-converter)\
 [Zero Cross Detection using an opamp](https://github.com/doodeca/crownstone-2wire-dimmerswitch/blob/main/hardware/tests/README.md#zero-cross-detection)
 
