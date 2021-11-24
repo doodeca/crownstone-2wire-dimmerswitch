@@ -22,5 +22,5 @@ A repository to document the design process of the Crownstone 2-wire dimmer/swit
 ## Documents
 :exclamation: All red text in documents are todo notes. 
 
-[Program of requirements](https://docs.google.com/viewer?url=https://github.com/doodeca/crownstone-2wire-dimmerswitch/raw/main/documents/report/Stageverslag_Crownstone.pdf#page=7)\
-[Architecture Design](https://docs.google.com/viewer?url=https://github.com/doodeca/crownstone-2wire-dimmerswitch/raw/main/documents/report/Stageverslag_Crownstone.pdf#page=8)
+[Report](https://docs.google.com/viewer?url=https://github.com/doodeca/crownstone-2wire-dimmerswitch/raw/main/documents/report/Stageverslag_Crownstone.pdf)\
+
