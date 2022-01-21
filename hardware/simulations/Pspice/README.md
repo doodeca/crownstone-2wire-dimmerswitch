@@ -24,7 +24,7 @@ In this plot the output voltage is shown.
 
 ## Simulation specific components description 
 
-![Schematic](https://github.com/doodeca/crownstone-2wire-dimmerswitch/raw/main/hardware/simulations/Pspice/schematic.PNG)
+![Schematic](https://github.com/doodeca/crownstone-2wire-dimmerswitch/raw/main/hardware/simulations/Pspice/Schematic2.PNG)
 
 V1 simulates a 230Vrms source at 50 hertz, R3 simulates the load.
 
